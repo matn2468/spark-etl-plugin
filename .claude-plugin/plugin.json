@@ -1,0 +1,10 @@
+{
+  "name": "spark-etl",
+  "version": "0.1.0",
+  "description": "Diagnose, optimize and build Spark ETLs on AWS (EMR, EMR Serverless, EKS, Glue, Redshift) orchestrated by Airflow in a medallion architecture. Guidance-only: reads the logs, plans and code you paste.",
+  "author": { "name": "Martin" },
+  "keywords": ["spark", "pyspark", "airflow", "emr", "glue", "redshift", "etl", "medallion", "data-engineering"],
+  "license": "MIT",
+  "homepage": "https://github.com/matn2468/spark-etl-plugin",
+  "repository": "https://github.com/matn2468/spark-etl-plugin"
+}

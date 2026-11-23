@@ -1,0 +1,16 @@
+{
+  "name": "spark-etl-tools",
+  "owner": { "name": "Martin" },
+  "metadata": {
+    "description": "Claude Code plugins for Spark / Airflow / AWS data engineering."
+  },
+  "plugins": [
+    {
+      "name": "spark-etl",
+      "source": "./",
+      "description": "Diagnose failed or slow Spark ETLs from Airflow logs, review/optimize Spark code and build new medallion ETLs.",
+      "version": "0.1.0",
+      "category": "data-engineering"
+    }
+  ]
+}
